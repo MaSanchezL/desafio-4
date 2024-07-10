@@ -1,0 +1,54 @@
+body {
+    font-family: Roboto;
+}
+.bg-verde {
+  background-color: #28a745;
+  color: white;
+}
+.nav-bar-img {
+  width: 86px;
+}
+.card {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.card-title {
+  font-size: 20px;
+}
+.text-verde {
+    color: #28a745;
+    font-size: 20px;
+}
+.card-text {
+    font-size: 16px;
+    color: #707070;
+}
+.card-text-price {
+    text-align: end;
+}
+.price-original {
+  text-decoration: line-through;
+  color: #707070;
+}
+.container-form-correo {
+  background-color: #28a745;
+  color: white;
+  padding: 20px;
+}
+.footer input {
+  margin-bottom: 10px;
+}
+.footer .btn {
+  background-color: white;
+  color: #28a745;
+  border-color: white;
+}
+.imagen-footer{
+    width: 82px;
+    padding: 10px;
+}
+.container-footer {
+    text-align: center;
+    font-size: 16px;
+    color: #707070;
+}
